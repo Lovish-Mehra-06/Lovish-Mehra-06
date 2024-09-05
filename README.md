@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Lovish Mehra</h1>
 
-<h3 align="center">Aspiring Software Engineer from India focused on building clean and efficient code. Passionate about learning and improving every</h3>
+<h3 align="center">Aspiring Software Engineer from India focused on building clean and efficient code.
+  Passionate about learning and improving everyday.</h3>
 
 🔭 I'm a B.Tech 1st Year Student From India.
 
