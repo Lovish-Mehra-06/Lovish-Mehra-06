@@ -3,6 +3,8 @@
 
 <h3 align="center">Aspiring Software Engineer from India focused on building clean and efficient code. Passionate about learning and improving every</h3>
 
+🔭I'm a B.Tech 1st Year Student From India
+
 👀 I’m interested in Tech.
 
 🌱 I’m currently learning **DSA in C++.**
