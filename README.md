@@ -1,6 +1,4 @@
 
-# Hi, I'm Lovish ! 👋
-
 -B.Tech Fresher From India. 
 ## 🚀 About Me
 👋 Hi, I’m Lovish Mehra.
@@ -17,12 +15,13 @@
 Python, HTML, SQL & C++ ...
 <h1 align="center">Hi 👋, I'm Lovish Mehra</h1>
 <h3 align="center">Aspiring Software Engineer from India focused on building clean and efficient code. Passionate about learning and improving every</h3>
+👀 I’m interested in Tech.
 
 - 🌱 I’m currently learning **DSA in C++.**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/lovish-mehra-762502320/](https://www.linkedin.com/in/lovish-mehra-762502320/)
+💞️ I’m looking to collaborate on various Projects and compete in various Hackathons.
 
-- 📄 Know about my experiences [(Work in Progress)]((Work in Progress))
+- 📄 Know about my experiences [https://www.linkedin.com/in/lovish-mehra-762502320/](https://www.linkedin.com/in/lovish-mehra-762502320/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
