@@ -27,7 +27,8 @@ Python, HTML, SQL & C++ ...
 <a href="https://www.leetcode.com/uukszxthni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uukszxthni" height="30" width="40" /></a>
 </p>
 
-Questions Solved
+Questions Solved:
+<br>
 https://www.leetcode.com/uukszxthni
 <br>
 https://www.naukri.com/code360/profile/38b0927e-75f0-440d-8c8b-926acd1b7c8c
