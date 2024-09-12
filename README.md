@@ -26,6 +26,9 @@ Python, HTML, SQL & C++ ...
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lovish-mehra-762502320/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lovish-mehra-762502320/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/uukszxthni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uukszxthni" height="30" width="40" /></a>
 </p>
+
+Questions Solved
+https://www.leetcode.com/uukszxthni
 https://www.naukri.com/code360/profile/38b0927e-75f0-440d-8c8b-926acd1b7c8c
 
 <!---
