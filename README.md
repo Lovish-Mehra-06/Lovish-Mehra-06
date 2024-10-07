@@ -27,16 +27,22 @@ Python, HTML, SQL & C++ ...
 <a href="https://www.leetcode.com/uukszxthni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uukszxthni" height="30" width="40" /></a>
 </p>
 
-Questions Solved:
-<br>
-https://www.leetcode.com/uukszxthni
-<br>
-==> 8 Problems solved....{  Easy(6)  Medium(2)  Hard(0)  }
-<br>
-<br>
-https://www.naukri.com/code360/profile/38b0927e-75f0-440d-8c8b-926acd1b7c8c
-<br>
-==> 9 Problems solved....{  Easy(7)  Medium(2)  Hard(0)  }
+# Questions Solved
+
+## LeetCode:
+[LeetCode Profile](https://www.leetcode.com/uukszxthni)  
+**Problems Solved:** 8  
+- Easy: 6  
+- Medium: 2  
+- Hard: 0  
+
+## Naukri Code360:
+[Code360 Profile](https://www.naukri.com/code360/profile/38b0927e-75f0-440d-8c8b-926acd1b7c8c)  
+**Problems Solved:** 9  
+- Easy: 7  
+- Medium: 2  
+- Hard: 0  
+
 
 <!---
 Lovish-Mehra-06/Lovish-Mehra-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
