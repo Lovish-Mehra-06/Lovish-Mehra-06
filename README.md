@@ -31,7 +31,11 @@ Questions Solved:
 <br>
 https://www.leetcode.com/uukszxthni
 <br>
+==> 8 Problems solved        Easy(6) Medium(2) Hard(0)
+<br>
+<br>
 https://www.naukri.com/code360/profile/38b0927e-75f0-440d-8c8b-926acd1b7c8c
+==> 9 Problems solved        Easy(7) Medium(2) Hard(0)
 
 <!---
 Lovish-Mehra-06/Lovish-Mehra-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
